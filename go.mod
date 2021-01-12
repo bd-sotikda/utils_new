@@ -1,3 +1,3 @@
-module github.com/bd-sotikda/utils_new/v2
+module github.com/bd-sotikda/utils_new/v3
 
 go 1.15
